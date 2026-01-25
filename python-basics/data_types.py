@@ -19,3 +19,20 @@ print(type(b))
 x=range(3,10)
 print(x)
 print(list(x))
+#7
+x=set(("apple","banana","orange"))
+print(x)
+print(type(x))
+#8bool
+a=10
+b=5
+result=a>b
+print(result)
+#9bytes
+text=b"Hello"
+print(text[0])
+#10h yo j
+data=bytearray(b"Hello")
+view=memoryview(data)
+view[0]=74
+print(data)
