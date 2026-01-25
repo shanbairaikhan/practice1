@@ -6,7 +6,7 @@ y = {"name" : "John", "age" : 36}
 print(y)
 #3
 z=("apple","banana","cherry")
-print(type(x))
+print(type(z))
 #4
 a=str("Hello world")
 print(a)
