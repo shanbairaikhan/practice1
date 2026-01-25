@@ -11,3 +11,7 @@ print(type(z))
 a=str("Hello world")
 print(a)
 print(type(a))
+#5
+b=float(20.5)
+print(b)
+print(type(b))
