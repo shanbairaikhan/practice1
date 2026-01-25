@@ -15,3 +15,7 @@ print(type(a))
 b=float(20.5)
 print(b)
 print(type(b))
+#6
+x=range(3,10)
+print(x)
+print(list(x))
