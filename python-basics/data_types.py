@@ -7,3 +7,7 @@ print(y)
 #3
 z=("apple","banana","cherry")
 print(type(x))
+#4
+a=str("Hello world")
+print(a)
+print(type(a))
