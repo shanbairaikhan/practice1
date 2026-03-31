@@ -1,0 +1,51 @@
+#1
+x=1
+y=2.9
+z=1j
+print(type(x))
+print(type(y))
+print(type(z))
+#2
+x = 1
+y = 35656222554887711
+z = -3255522
+print(type(x))
+print(type(y))
+print(type(z))
+#3
+total=sum(range(1,6))
+print(total)
+#4
+numbers=[3,7,1,9]
+print(min(numbers))
+print(max(numbers))
+#5
+x='25'
+y=int(x)+5
+print(y)
+#6
+a=17
+b=5
+print(a//b)
+print(a%b)
+#7
+x=7/2
+print(x)
+rounded=round(x)
+print(rounded)
+#8
+x=-15
+print(abs(x))
+#9
+a=8877
+a+=145
+print(a)
+#10
+n=8
+if n%2==0:
+    print("even")
+else:
+    print("odd")
+#11
+qaldyq=3.1459
+print(round(qaldyq,2))
